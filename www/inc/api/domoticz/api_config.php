@@ -25,7 +25,7 @@ $api['set']['group']['off']			='Off';
 $api['set']['dimmer']['on']			='On';
 $api['set']['dimmer']['off']		='Off';
 $api['set']['dimmer']['min']		=1;
-$api['set']['dimmer']['max']		=16;
+$api['set']['dimmer']['max']		=100;
 
 $api['set']['blinds']['off']		='Off';		
 $api['set']['blinds']['on']			='On';		
